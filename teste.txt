@@ -1,1 +1,2 @@
 teste automation
+Adicionando arquivo via function
